@@ -1,0 +1,13 @@
+{
+  "name": "debate-smelter",
+  "version": "1.0.0",
+  "dependencies": {
+    "openai": "^4.0.0"
+  },
+  "devDependencies": {
+    "netlify-cli": "^23.13.4"
+  },
+  "scripts": {
+    "start": "netlify dev"
+  }
+}
